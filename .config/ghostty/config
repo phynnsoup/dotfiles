@@ -1,0 +1,4 @@
+font-family = "JetbrainsMono Nerd Font"
+theme = catppuccin-mocha
+maximize = true
+background-opacity = 0.9
